@@ -5,7 +5,7 @@ This project analyzes resume data to understand **what factors influence recruit
 Using analytical techniques and business-driven metrics, the project identifies **skill gaps, salary mismatches, and role-specific hiring patterns**, helping candidates improve their chances of being hired.
 
 The focus is on **explainable data analytics**, not predictive modeling.
-
+                                                                                                             
 ---
 
 ## 🎯 Business Objectives             
