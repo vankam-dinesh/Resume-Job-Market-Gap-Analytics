@@ -8,7 +8,7 @@ The focus is on **explainable data analytics**, not predictive modeling.
                                                                                                              
 ---
 
-## 🎯 Business Objectives             
+## 🎯 Business Objectives                                                                                
 - Identify key factors influencing recruiter hire vs reject decisions
 - Analyze skill demand across different job roles
 - Detect salary expectation mismatches leading to rejection
