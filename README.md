@@ -7,7 +7,7 @@ Using analytical techniques and business-driven metrics, the project identifies 
 The focus is on **explainable data analytics**, not predictive modeling.
                                                                                                              
 ---
-                 
+                                                        
 ## 🎯 Business Objectives                                                                                
 - Identify key factors influencing recruiter hire vs reject decisions
 - Analyze skill demand across different job roles
