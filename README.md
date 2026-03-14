@@ -16,7 +16,7 @@ The focus is on **explainable data analytics**, not predictive modeling.
 - Perform exception analysis to identify high-quality rejected candidates
 
 ---
-
+                                                                             
 ## 📊 Dataset Description
 - **Source:** Public resume dataset (1,000 candidate profiles)
 - **Key Features:**
